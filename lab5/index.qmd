@@ -1,0 +1,30 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aryan-pasricha
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.aap261@case.edu" 
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hello everyone!
+
+My name is Aryan Pasricha, and I am originally from Toronto, Canada. I am currently a Research Coordinator at the Cleveland Clinic's Heart, Vascular & Thoracic Institute (HVTI) and a part-time Master's student in the Clinical Research Scholars Program (CRSP). My research focuses on aortic disease, particularly the perioperative care and outcomes of patients with aortic aneurysms and dissections.
+
+I moved to Cleveland over a year ago and have really enjoyed exploring the city, especially its small local shops, bars, and coffee shops. I am also a music fanatic who loves playing the guitar and performing country music.
+
+Outside of work and school, I have two older brothers who both live in New York City. One works as a journalist and broadcaster, while the other works in investment banking.
+
+Please feel free to [contact me](mailto:mail.aap261@case.edu) if you have any questions or would like to discuss potential projects.
+
+

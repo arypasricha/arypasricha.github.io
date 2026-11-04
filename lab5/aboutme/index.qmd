@@ -1,0 +1,22 @@
+---
+title: About Me
+---
+
+## Education & Experience
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+
+I graduated from Wake Forest University with a Bachelor of Science, majoring in Health and Exercise Science and minoring in Chemistry and Entrepreneurship. Outside of the classroom, I was a member of both the Club Lacrosse and Basketball teams. I also served as President of an organization called Campus Kitchen, which focused on recovering and repurposing meals for individuals and families in the Winston-Salem community. Academically, I was involved in research examining treatment approaches for patients with hip osteopenia, specifically the effects of exercise interventions and pharmaceutical therapies. Some of my favorite experiences on campus were taking walks along the beautiful forest trails and attending sporting events.
+
+
+----
+
+
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+Following my graduation in 2025, I began a gap year as a Research Assistant in the Roselli Lab at Cleveland Clinic, investigating aortic disease. I have since transitioned into a Research Coordinator role, taking on greater responsibilities in coordinating the lab's research activities and overseeing multiple projects.
+
+Our translational research combines biomechanical testing and bioengineering approaches to measure stress and strain in aortic tissue and correlate these findings with in vivo MRI measurements. The overarching goal is to improve the precision of surgical decision-making and timing by moving beyond aortic diameter as the sole determinant of surgical intervention.
+
+In addition to this work, I am involved in several retrospective studies examining regional transfer times for patients with acute aortic dissection and the clinical implications of cerebral malperfusion following dissection.
+
